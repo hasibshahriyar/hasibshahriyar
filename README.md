@@ -1,85 +1,19 @@
-# 👋 Hi, I'm **Hasib Shahriyar**
-
-![Profile Image](https://avatars.githubusercontent.com/u/33300359?v=4)
-
-## Machine Learning Engineer | AI Researcher | Backend Developer
-
-"I love sleeping while coding and traveling."
-
----
-
-### 🔧 **Tech Stack & Tools**
-
-#### 🧠 **Machine Learning & AI**:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF3C00?style=flat-square&logo=huggingface&logoColor=white)
-
-#### ⚙️ **Backend Development**:
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### 🛠️ **Other Tools**:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
----
-
-### 📊 **GitHub Stats & Contributions**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibshahriyar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-#### 🏆 **Top Languages**:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibshahriyar&theme=radical&hide=javascript&langs_count=8)
-
-#### 📉 **GitHub Contribution Graph**:
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hasibshahriyar&theme=github&hide_border=true)
-
----
-
-### 🌐 **Connect with Me:**
-
-- [LinkedIn](https://www.linkedin.com/in/hasibshahriyar)  
-- [Twitter](https://twitter.com/hasibshahriyar)  
-- [GitHub](https://github.com/hasibshahriyar)  
-- [Portfolio](https://hasibshahriyar.github.io)  
-- [Email](mailto:hasibshahriyar@example.com)  
-
----
-
-### 🎯 **Achievements & Certifications:**
-
-- **Certified in Machine Learning** by [Coursera](https://www.coursera.org/)
-- **Published Researcher** in the field of AI and ML
-- **Contributed to open-source ML projects** and AI papers
-
----
-
-### 🔥 **Profile Stats:**
-
-- **Total Stars**: 3
-- **Total Commits**: 124
-- **Total Pull Requests**: 1
-- **Total Repos**: 17
-- **Total Followers**: 11
-
----
-
-### 🗂 **My Wakatime Stats**:
-![Wakatime](https://img.shields.io/badge/Wakatime-1d1d1b?style=flat-square&logo=wakatime&logoColor=green)
-
----
-
-### 📝 **Profile Views**:
-- **Profile Views**: 528
-- **Followers**: 11
-- **Stars**: 3
-
----
-
-### 🚀 **Let's Collaborate on Exciting Projects!**
-Feel free to reach out and work together on exciting AI or Backend projects. I’m always open to new ideas! 🚀
-
+<div align="center">
+ 
+ # Shahriyar Hasib
+ 
+ ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Shahriyar%20Hasib&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Engineer&descAlignY=60&fontColor=ffffff)
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Backend+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+ 
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzJlM2Y2MDVkYTBhZWJmYzU2ZjQ0NTRjZDM3N2Y0ZjBiMzc0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
+ 
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iammahbubalam)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iammahbubalam)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/iammahbubalam)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iammahbubalam)
+ [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://iammahbubalam.me/)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shasib212085@bscse.uiu.ac.bd)
+ 
+ </div>
