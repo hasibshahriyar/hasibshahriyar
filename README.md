@@ -2,9 +2,9 @@
  
  # Shahriyar Hasib
  
- ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Shahriyar%20Hasib&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Engineer&descAlignY=60&fontColor=ffffff)
+ ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF7F50&height=250&section=header&text=Shahriyar%20Hasib&fontSize=50&fontAlignY=40&animation=blink&desc=Machine%20Learning%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Engineer&descAlignY=60&fontColor=ffffff)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2986cc&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Backend+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Researcher;Backend+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
  
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzJlM2Y2MDVkYTBhZWJmYzU2ZjQ0NTRjZDM3N2Y0ZjBiMzc0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
  
