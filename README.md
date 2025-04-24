@@ -9,7 +9,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2UweWYxbWlyeTFva3Y2em42Zmk3ZWU3c21hM2YxenU2cjM3cTJraiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" alt="coding animation"/>
  
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hasib_shahriyar)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hasibshahriyar)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/hasibshahriyar)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shahriyar.hasib.7)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hasib_shahriyar)
  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao)
