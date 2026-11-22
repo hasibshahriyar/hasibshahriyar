@@ -10,7 +10,7 @@ I build intelligent systems and ship production-grade software — from deep lea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibshahriyar)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://hasibshahriyar.github.io/MyProfile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A1F?style=flat&logo=vercel&logoColor=white)](https://shahriyarhasib.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shahriyarhasib6@gmail.com)
 
 </div>
