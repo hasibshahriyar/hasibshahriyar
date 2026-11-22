@@ -2,24 +2,27 @@
 
 # Shahriyar Hasib
 
-**AI & Software Engineer** · Undergraduate Researcher at [United International University](https://www.uiu.ac.bd/)
+**AI & Software Engineer**
 
-I build intelligent systems at the intersection of deep learning research and production software.
+B.Sc. in Computer Science & Engineering · [United International University](https://www.uiu.ac.bd/)
+
+I build intelligent systems and ship production-grade software — from deep learning research to full-stack applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibshahriyar)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=githubpages&logoColor=white)](https://hasibshahriyar.github.io/MyProfile/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shasib212085@bscse.uiu.ac.bd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://hasibshahriyar.github.io/MyProfile/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shahriyarhasib6@gmail.com)
 
 </div>
 
 ---
 
-### 🧠 What I Do
+### 🧠 About
 
-- 🔬 **Research** — Developing [**EchoShield**](https://github.com/hasibshahriyar/EchoShield-Detecting-AI-Generated-Voices-in-the-Modern-Soundscape), a hybrid deep learning framework (CNNs + RNNs + Transformers) for detecting AI-generated voices across diverse audio datasets
-- 🏗️ **Build** — Full-stack web applications and backend APIs using TypeScript, React, Next.js, Go, and Node.js
-- 📊 **Analyze** — Data pipelines, customer analytics dashboards, and ML experiments with Python and scikit-learn
+- 🏢 **Software Engineer Intern** at [DeveloperLook](https://developerlook.com) — built & launched **StoreDesk**, an agentic Shopify app with OpenAI; deployed self-hosted apps with Docker & CI/CD
+- 🔬 **EchoShield** (Thesis) — deepfake audio detection framework achieving **92.5% accuracy** and **6.8% EER** on ASVspoof 2019 LA — *First Runner-Up, UIU Final Year Design Project 2025*
+- 🤖 Hands-on with **Agentic AI, LLM pipelines, prompt engineering**, and semantic search with pgvector
+- 🎓 **B.Sc. CSE** from United International University (2021–2025)
 
 ---
 
@@ -29,52 +32,60 @@ I build intelligent systems at the intersection of deep learning research and pr
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,java&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,c&theme=dark" alt="Languages" />
 
-**AI / ML & Data**
+**AI / ML & LLMs**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI/ML" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML" />
 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Web & Backend**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,postgres,docker&theme=dark" alt="Web" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,remix,vite,tailwind&theme=dark" alt="Frontend" />
 
-**Tools**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,supabase,mongodb,mysql&theme=dark" alt="Backend" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,linux,git,github,vercel,vscode&theme=dark" alt="DevOps" />
 
 </div>
 
 ---
 
-### 🔬 Research
+### 🔬 Research — EchoShield
 
-**EchoShield — Detecting AI-Generated Voices in the Modern Soundscape**
+**Deepfake Audio Detection** · *Final Year Thesis · First Runner-Up, UIU Design Project 2025*
 
-> A hybrid deep learning framework combining CNNs, RNNs, and Transformers for deepfake audio detection. Achieved high accuracy across diverse datasets using advanced feature extraction and preprocessing techniques for audio forensics.
+> A dual-branch deep learning framework (~402M params) combining **Wav2Vec 2.0, CLAP, and ViT** with 5 novel modules (ADM, DLSN, AACA, BCBI, MVCL) for detecting AI-generated speech. Processed **71K+ audio samples** from ASVspoof 2019 LA.
 
-**Areas:** DeepFake Detection · Audio Signal Processing · Neural Networks · Computer Vision
-
-| Repository | Focus |
+| Metric | Score |
 | :--- | :--- |
-| [**EchoShield**](https://github.com/hasibshahriyar/EchoShield-Detecting-AI-Generated-Voices-in-the-Modern-Soundscape) | Deepfake audio detection framework |
-| [**Wav2Vec 2.0 Evaluator**](https://github.com/hasibshahriyar/Wav2Vec-2.0-Noise-Robustness-Evaluator) | Noise robustness evaluation for speech models |
+| Accuracy | **92.5%** |
+| EER | **6.8%** (vs. 7.8% baseline) |
+| AUC-ROC | **0.975** |
+| Macro F1 | **0.924** |
+
+[![EchoShield](https://img.shields.io/badge/EchoShield-181717?style=flat&logo=github&logoColor=white)](https://github.com/hasibshahriyar/EchoShield-Detecting-AI-Generated-Voices-in-the-Modern-Soundscape)
+[![Wav2Vec Evaluator](https://img.shields.io/badge/Wav2Vec_2.0_Evaluator-181717?style=flat&logo=github&logoColor=white)](https://github.com/hasibshahriyar/Wav2Vec-2.0-Noise-Robustness-Evaluator)
 
 ---
 
 ### 🚀 Featured Projects
 
-**AI & Data**
+**AI & LLM**
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | [**DevDNA**](https://github.com/hasibshahriyar/DevDNA) | GitHub developer personality analyzer — *Agents League 2026* | `Python` `HTML` |
-| [**Email Generation Assistant**](https://github.com/hasibshahriyar/Email-Generation-Assistant) | AI-powered email drafting tool | `Python` |
+| [**Email Generation Assistant**](https://github.com/hasibshahriyar/Email-Generation-Assistant) | LLM evaluation pipeline comparing LLaMA 3.1-8B vs 3.3-70B with LLM-as-a-Judge scoring | `Python` `Groq` `LLaMA` |
 | [**Customer Analytics Dashboard**](https://github.com/hasibshahriyar/Customer-Analytics-Dashboard) | Data-driven customer insights & visualization | `Python` |
 | [**Sales Data Analysis**](https://github.com/hasibshahriyar/Sales-Data-Analysis) | Sales data exploration & analytics | `Python` |
 
@@ -82,13 +93,13 @@ I build intelligent systems at the intersection of deep learning research and pr
 
 | Project | What it does | Stack | Live |
 | :--- | :--- | :--- | :---: |
-| [**Inventra**](https://github.com/hasibshahriyar/Inventra) | Inventory management system with PostgreSQL | `TypeScript` `PLpgSQL` | [🔗](https://inventra-six-rust.vercel.app) |
+| [**Inventra**](https://github.com/hasibshahriyar/Inventra) | AI-powered inventory management with semantic search (pgvector) | `Next.js 15` `Supabase` `Tailwind` | [🔗](https://inventra-six-rust.vercel.app) |
+| [**Foodio**](https://github.com/hasibshahriyar/Foodio---Restaurant-Ordering-System) | Restaurant ordering system with Stripe payments & admin dashboard | `Next.js 14` `NestJS` `TypeORM` `PostgreSQL` `Stripe` | [🔗](https://foodio-nine.vercel.app) |
 | [**Remote Recruit**](https://github.com/hasibshahriyar/Remote-Recruit) | Remote job recruitment platform | `TypeScript` | [🔗](https://remote-recruit-beige.vercel.app) |
 | [**AgileBoard**](https://github.com/hasibshahriyar/AgileBoard) | Agile project management board | `TypeScript` `Docker` | — |
 | [**Task Manager API**](https://github.com/hasibshahriyar/Task-Manager-API) | RESTful task management API | `TypeScript` | — |
-| [**Foodio**](https://github.com/hasibshahriyar/Foodio---Restaurant-Ordering-System) | Restaurant ordering system | `TypeScript` | [🔗](https://foodio-nine.vercel.app) |
 | [**ZeroHunger**](https://github.com/hasibshahriyar/ZeroHunger) | Food donation & distribution platform | `JavaScript` | [🔗](https://zero-hunger-flax.vercel.app) |
-| [**Stripe Integration**](https://github.com/hasibshahriyar/Stripe-Integration) | Payment integration with Stripe | `JavaScript` | [🔗](https://stripe-integration-three.vercel.app) |
+| [**Stripe Integration**](https://github.com/hasibshahriyar/Stripe-Integration) | Payment integration demo | `JavaScript` | [🔗](https://stripe-integration-three.vercel.app) |
 | [**Blood Bank System**](https://github.com/hasibshahriyar/Blood-Bank-System) | Blood bank management system | `Java` | — |
 
 ---
