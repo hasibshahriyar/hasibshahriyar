@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shahriyar%20Hasib&fontSize=42&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Software%20Engineer&descAlignY=55&fontColor=ffffff)
+# Hi, I'm Shahriyar Hasib 👋
+### AI & Software Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+intelligent+systems+%7C+Shipping+clean+code)](https://git.io/typing-svg)
 
@@ -123,4 +124,5 @@ An advanced framework for deepfake audio detection combining **CNNs, RNNs, and T
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+---
+<sub>⚡ Built with passion from Bangladesh</sub>
