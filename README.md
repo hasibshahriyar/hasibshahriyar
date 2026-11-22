@@ -19,9 +19,10 @@ I build intelligent systems and ship production-grade software — from deep lea
 
 ### 🧠 About
 
-- 🏢 **Software Engineer Intern** at [DeveloperLook](https://developerlook.com) — built & launched **StoreDesk**, an agentic Shopify app with OpenAI; deployed self-hosted apps with Docker & CI/CD
+- 💼 **Open to AI & Software Engineering roles** (remote or on-site) — building agentic AI systems, full-stack apps, and self-hosted Linux/Docker infrastructure
+- 🏢 Previously **Software Engineer Intern** at [DeveloperLook](https://developerlook.com) *(Jun–Aug 2026)* — built & launched **StoreDesk**, an agentic Shopify app with OpenAI, and operated self-hosted Docker/Dokploy CI/CD pipelines
 - 🔬 **EchoShield** (Thesis) — deepfake audio detection framework achieving **92.5% accuracy** and **6.8% EER** on ASVspoof 2019 LA — *First Runner-Up, UIU Final Year Design Project 2025*
-- 🤖 Hands-on with **Agentic AI, LLM pipelines, prompt engineering**, and semantic search with pgvector
+- 🤖 Hands-on with **Agentic AI, LLM evaluation (LLM-as-a-Judge), prompt engineering**, and **pgvector** semantic search
 - 🎓 **B.Sc. CSE** from United International University (2021–2025)
 
 ---
